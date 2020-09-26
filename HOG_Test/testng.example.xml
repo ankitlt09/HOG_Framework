@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!Doctype suite SYSTEM "http://testng.org/testng-1.0 dtd">
+<suite name ="HOG_Test">
+<test name="Test">	
+		<!--  <parameter name = "browser" value="firefox" /> -->
+		<classes>
+			<class name="extentreport_demo.DemoTestCase" />
+			
+		</classes>
+	</test>
+
+</suite>

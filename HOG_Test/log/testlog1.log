@@ -1,0 +1,77 @@
+2020-09-03 22:27:43,341 [main] INFO HoG - URL is opened
+2020-09-04 13:26:23,009 [main] INFO HoG - URL is opened
+2020-09-04 13:26:29,022 [main] INFO HoG - Enter username
+2020-09-04 13:26:29,736 [main] INFO HoG - Enter password
+2020-09-04 13:26:31,803 [main] INFO HoG - Login test passed
+2020-09-04 14:02:45,666 [main] INFO HoG - URL is opened
+2020-09-04 14:02:47,865 [main] INFO HoG - Enter username
+2020-09-04 14:02:47,965 [main] INFO HoG - Enter password
+2020-09-04 14:02:50,038 [main] INFO HoG - Login test passed
+2020-09-04 17:34:27,312 [main] INFO HoG - URL is opened
+2020-09-04 17:34:30,207 [main] INFO HoG - Enter username
+2020-09-04 17:34:30,376 [main] INFO HoG - Enter password
+2020-09-04 17:52:29,319 [main] INFO HoG - URL is opened
+2020-09-04 17:52:31,582 [main] INFO HoG - Enter username
+2020-09-04 17:52:31,787 [main] INFO HoG - Enter password
+2020-09-04 17:55:43,387 [main] INFO HoG - URL is opened
+2020-09-04 17:55:45,706 [main] INFO HoG - Enter username
+2020-09-04 17:55:45,857 [main] INFO HoG - Enter password
+2020-09-15 12:42:40,038 [main] INFO HoG - URL is opened
+2020-09-15 12:42:44,084 [main] INFO HoG - Enter username
+2020-09-15 12:42:44,203 [main] INFO HoG - Enter password
+2020-09-16 12:32:27,735 [main] INFO HoG - URL is opened
+2020-09-16 12:32:30,346 [main] INFO HoG - Enter username
+2020-09-16 12:32:30,487 [main] INFO HoG - Enter password
+2020-09-16 12:50:22,388 [main] INFO HoG - URL is opened
+2020-09-16 12:50:24,618 [main] INFO HoG - Enter username
+2020-09-16 12:50:24,786 [main] INFO HoG - Enter password
+2020-09-16 12:52:50,932 [main] INFO HoG - URL is opened
+2020-09-16 12:52:53,179 [main] INFO HoG - Enter username
+2020-09-16 12:52:53,323 [main] INFO HoG - Enter password
+2020-09-16 12:56:25,680 [main] INFO HoG - URL is opened
+2020-09-16 12:56:27,918 [main] INFO HoG - Enter username
+2020-09-16 12:56:28,091 [main] INFO HoG - Enter password
+2020-09-16 12:59:18,577 [main] INFO HoG - URL is opened
+2020-09-16 12:59:20,807 [main] INFO HoG - Enter username
+2020-09-16 12:59:20,960 [main] INFO HoG - Enter password
+2020-09-16 13:02:13,030 [main] INFO HoG - URL is opened
+2020-09-16 13:02:15,255 [main] INFO HoG - Enter username
+2020-09-16 13:02:15,438 [main] INFO HoG - Enter password
+2020-09-16 13:06:31,937 [main] INFO HoG - URL is opened
+2020-09-16 13:06:34,170 [main] INFO HoG - Enter username
+2020-09-16 13:06:34,343 [main] INFO HoG - Enter password
+2020-09-16 13:08:03,952 [main] INFO HoG - URL is opened
+2020-09-16 13:08:06,177 [main] INFO HoG - Enter username
+2020-09-16 13:08:06,314 [main] INFO HoG - Enter password
+2020-09-16 13:19:33,938 [main] INFO HoG - URL is opened
+2020-09-16 13:19:36,187 [main] INFO HoG - Enter username
+2020-09-16 13:19:36,373 [main] INFO HoG - Enter password
+2020-09-16 13:22:46,316 [main] INFO HoG - URL is opened
+2020-09-16 13:22:48,529 [main] INFO HoG - Enter username
+2020-09-16 13:22:48,672 [main] INFO HoG - Enter password
+2020-09-22 12:42:09,952 [main] INFO HoG - URL is opened
+2020-09-22 12:42:14,941 [main] INFO HoG - Enter username
+2020-09-22 12:42:15,197 [main] INFO HoG - Enter password
+2020-09-22 12:43:04,948 [main] INFO HoG - Script Completed
+2020-09-22 12:48:46,550 [main] INFO HoG - URL is opened
+2020-09-22 12:48:48,873 [main] INFO HoG - Enter username
+2020-09-22 12:48:49,004 [main] INFO HoG - Enter password
+2020-09-22 12:49:24,873 [main] INFO HoG - Script Completed
+2020-09-22 13:21:40,335 [main] INFO HoG - URL is opened
+2020-09-22 13:21:42,813 [main] INFO HoG - Enter username
+2020-09-22 13:21:42,996 [main] INFO HoG - Enter password
+2020-09-22 13:23:48,822 [main] INFO HoG - Script Completed
+2020-09-22 13:36:18,008 [TestNG-test=HOG-2] INFO HoG - URL is opened
+2020-09-22 13:36:19,879 [TestNG-test=HOG-1] INFO HoG - URL is opened
+2020-09-22 13:36:22,195 [TestNG-test=HOG-1] INFO HoG - Enter username
+2020-09-22 13:36:22,464 [TestNG-test=HOG-1] INFO HoG - Enter password
+2020-09-22 13:49:17,069 [TestNG-test=HOG-1] INFO HoG - URL is opened
+2020-09-22 13:49:19,428 [TestNG-test=HOG-1] INFO HoG - Enter username
+2020-09-22 13:49:19,649 [TestNG-test=HOG-1] INFO HoG - Enter password
+2020-09-22 18:29:49,132 [TestNG-test=HOG-1] INFO HoG - URL is opened
+2020-09-22 18:29:51,852 [TestNG-test=HOG-1] INFO HoG - Enter username
+2020-09-22 18:29:52,041 [TestNG-test=HOG-1] INFO HoG - Enter password
+2020-09-22 18:30:26,473 [TestNG-test=HOG-1] INFO HoG - Script Completed
+2020-09-24 20:46:34,367 [TestNG-test=HOG-1] INFO HoG - URL is opened
+2020-09-24 20:46:37,301 [TestNG-test=HOG-1] INFO HoG - Enter username
+2020-09-24 20:46:37,539 [TestNG-test=HOG-1] INFO HoG - Enter password

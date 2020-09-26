@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name ="HOG_Test" parallel="classes">
+<!--  <parameter name = "browser" value="chrome" />-->
+	 <listeners>
+		<listener class-name="com.HOG.Utilities.Listeners"/>
+	
+	</listeners>
+ 
+	<test name="HOG">
+	<parameter name = "browser" value="chrome" />
+		<classes>
+			<!--  <class name="com.HOG.TestCases.TC_LoginTest_001" />-->
+			<class name="com.HOG.TestCases.TC_TournamentTest" />
+			<!-- <class name="com.HOG.TestCases.TC_Tournament_003" />-->
+			
+		</classes>
+	</test>
+	<!--  <test name="Firefox">	
+		<parameter name = "browser" value="firefox" />
+		<classes>
+			<class name="com.HOG.TestCases.TC_LoginTest_002" />
+			
+		</classes>
+	</test>-->
+
+</suite>
+   
